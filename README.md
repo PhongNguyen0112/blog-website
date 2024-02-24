@@ -13,14 +13,14 @@ messages<br>
 </p><br>
 <h3 align="left">Web Site Plan</h3>
 <p align="left">
-  <img src="asg/WebSitePlan.png" width="450" />
+  <img src="Asg/WebSitePlan.png" width="450" />
 </p><br>
 <h3 align="left">How it looks like?</h3>
 <p align="left">
-  <img src="asg/Discover.png" width="650" />
+  <img src="Asg/Discover.png" width="650" />
 </p><br>
 <p align="left">
-  <img src="asg/login.png" width="650" />
+  <img src="Asg/login.png" width="650" />
 </p><br><br>
 <p align="left">
-  <img src="asg/Home.png" width="650" />
+  <img src="Asg/Home.png" width="650" />
