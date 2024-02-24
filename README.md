@@ -11,4 +11,16 @@ adding the EventListener() method to validate information on the user side dynam
 messages<br>
 • Executed manual testing for the blog website project to make sure all features satisfied user needs.
 </p><br>
-
+<h3 align="left">Web Site Plan</h3>
+<p align="left">
+  <img src="asg/WebSitePlan.png" width="450" />
+</p><br>
+<h3 align="left">How it looks like?</h3>
+<p align="left">
+  <img src="asg/Discover.png" width="650" />
+</p><br>
+<p align="left">
+  <img src="asg/login.png" width="650" />
+</p><br><br>
+<p align="left">
+  <img src="asg/Home.png" width="650" />
